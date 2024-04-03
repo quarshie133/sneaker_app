@@ -20,6 +20,7 @@ class IntroPage extends StatelessWidget {
               child: Image.asset(
                 'lib/images/nike.png',
                 height: 240,
+                color: Colors.black,
               ),
             ),
 
